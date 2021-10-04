@@ -1,0 +1,1 @@
+echo "the message to first script is: $MESSAGE"
